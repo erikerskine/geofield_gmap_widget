@@ -1,0 +1,5 @@
+name = Geofield GMap widget
+description = Provides an google map widget for the <em>geofield</em> field type.
+core = 7.x
+dependencies[] = geofield
+package = Fields
